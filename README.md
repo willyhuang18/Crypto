@@ -1,6 +1,7 @@
 # CryptoNFT
-# DBank
 This application is Non-commercial application. This is generate for people interesting on Motoko language, for playing around. The code might not be perfect.
+
+This NFT application is connecting with the RC-Token, user is able to CREAT, BUY, SELL, MINT the NFTs.
 
 ## Technologies Used
 
