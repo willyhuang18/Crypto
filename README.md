@@ -1,7 +1,7 @@
 # CryptoNFT
 This application is Non-commercial application. This is generate for people interesting on Motoko language, for playing around. The code might not be perfect.
 
-This NFT application is connecting with the RC-Token, user is able to CREAT, BUY, SELL, MINT the NFTs.
+This NFT application is connecting with the RC-Token, user is able to CREATE, BUY, SELL, MINT the NFTs.
 
 ## Technologies Used
 
@@ -71,7 +71,7 @@ dfx canister id opend
 dfx canister call <REPLACE WITH NFT CANISTER ID> transferOwnership '(principal "<REPLACE WITH THE ID FROM STEP 3>", true)'
 ```
 
-# Conneting to the Token Canister
+# Connecting to the Token Canister
 
 
 1. Copy over the token declarations folder
