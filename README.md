@@ -1,8 +1,7 @@
 # CryptoNFT
-This application is Non-commercial application. This is generate for people interesting on Motoko language, for playing around. The code might not be perfect.
+This application is a Non-commercial application. This is generated for people interested in the Motoko language, for playing around with it. The code might not be perfect.
 
-This NFT application is connecting with the RC-Token, user is able to CREATE, BUY, SELL, MINT the NFTs.
-
+This NFT application connects with the RC-Token, the user is able to CREATE, BUY, SELL, and MINT the NFTs.
 ## Technologies Used
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
